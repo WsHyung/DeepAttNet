@@ -3,4 +3,4 @@
 
 ### Grid search sweep code can be found in train.py
 ### Model for DeepAttNet and ablation models (with self-attention and transformer) con be found in DeepNet.py
-### For training setuo, please refer to readme.txt.
+### For training setup, please refer to readme.txt.
